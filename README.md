@@ -2,7 +2,7 @@
 
 ### Full Stack Developer (MERN)
 
-- 📫 How to reach me: **raneemmagdy2002@gmail.com**
+- 📧 How to reach me: **raneemmagdy2002@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/raneem-elmahdy-56495b2a4)
 - 🌐 Check out my projects on [GitHub](https://github.com/raneemmagdy)
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
 ### **Bachelor’s in Computing and Bioinformatics**
 - **Institution**: Suez Canal University
@@ -70,7 +70,7 @@
 
 ---
 
-## 📜 Certifications
+## 🏅 Certifications
 
 - **Fundamentals of Artificial Intelligence** — Elmasria for Science and Technology (Jul 2022 – Aug 2022)
 - **Problem Solving Training** — Coach Academy (Sep 2022 – Mar 2023)
