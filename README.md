@@ -36,9 +36,9 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### 🚀 **Deployment Tools**
-<img src="https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white" alt="Render" height="30">  
-<img src="https://img.shields.io/badge/Cyclic-0A1F44?style=for-the-badge&logo=cyclic&logoColor=white" alt="Cyclic" height="30">  
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="30">
+![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white)  
+![Cyclic](https://img.shields.io/badge/Cyclic-0A1F44?style=for-the-badge&logo=cyclic&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🛠 **Other Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
