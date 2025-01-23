@@ -78,4 +78,4 @@ I'm continually improving my skills in full-stack development, exploring advance
 
 ---
 
-- **Thanks for visiting!**❤️
+**Thanks for visiting!** ❤️
