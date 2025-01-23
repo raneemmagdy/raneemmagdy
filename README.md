@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raneem Elmahdy!
 
 🌟**Full Stack Developer** | 📍 Port Said, Egypt  
-🎓**Computing and Bioinformatics Graduate** (Suez Canal University, GPA: 3.61/4.0, Ranked 2nd)
+🎓**Computing and Bioinformatics Graduate** (Suez Canal University, Faculty of Computers and Informatics, GPA: 3.61/4.0, Ranked 2nd)
 
 ---
 
@@ -36,9 +36,8 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### **Deployment Tools**
-![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white)  
-![Cyclic](https://img.shields.io/badge/Cyclic-0A1F44?style=for-the-badge&logo=cyclic&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white) ![Cyclic](https://img.shields.io/badge/Cyclic-0A1F44?style=for-the-badge&logo=cyclic&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ### **Other Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -47,11 +46,30 @@
 
 ---
 
+## 📜 Certifications
+
+- **Fundamentals of Artificial Intelligence** — Elmasria for Science and Technology
+- **Problem Solving Training** — Coach Academy
+- **Back-End Development** — GDSC/Route Academy
+- **Front-End Development** — Route Academy
+---
+
+## 🏆 Competitions
+
+- **ECPC Qualifications** — Participated as a contestant (2022 – 2023)
+  
+---
+
+## 🌐 Languages
+
+- **Arabic:** Native
+- **English:** Very Good
+
+---
 ## 🎯 What I'm Working On
 I'm continually improving my skills in full-stack development, exploring advanced AI techniques, and deploying scalable web applications.
 
 ---
-
 ##  Connect with Me!
 - 🌐 [GitHub Profile](https://github.com/raneemmagdy)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/raneem-elmahdy-56495b2a4)
