@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raneem Elmahdy!
 
-🌟**Full Stack Developer** | 📍 Port Said, Egypt  
+🌟**Full Stack Developer(MERN)** | 📍 Port Said, Egypt  
 🎓**Computing and Bioinformatics Graduate** (Suez Canal University, Faculty of Computers and Informatics, GPA: 3.61/4.0, Ranked 2nd)
 
 ---
@@ -46,7 +46,7 @@
 
 ---
 
-## 📜 Certifications
+## 🏅 Certifications
 
 - **Fundamentals of Artificial Intelligence** — Elmasria for Science and Technology
 - **Problem Solving Training** — Coach Academy
@@ -78,4 +78,4 @@ I'm continually improving my skills in full-stack development, exploring advance
 
 ---
 
-🙌 **Thanks for visiting!**
+**Thanks for visiting!**❤️
