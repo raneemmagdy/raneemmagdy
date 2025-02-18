@@ -23,7 +23,7 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)  
 
 ### **Deployment Tools**  
-![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white) ![Cyclic](https://img.shields.io/badge/Cyclic-0A1F44?style=for-the-badge&logo=cyclic&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 
 ### **Other Tools & Technologies**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
