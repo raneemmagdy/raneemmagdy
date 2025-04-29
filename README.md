@@ -53,23 +53,30 @@
 ---
 
 ## Connect with Me
+
 <p align="center">
-  <a href="mailto:raneemmagdy2002@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="48" alt="Gmail" />
-    <br />
-    <sub><strong>Gmail</strong></sub>
+  <a href="mailto:raneemmagdy2002@gmail.com" target="_blank">
+    <div align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="48" alt="Gmail" />
+      <br />
+      <strong>Gmail</strong>
+    </div>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/raneemmagdy" target="_blank" style="text-decoration: none;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" alt="GitHub" />
-    <br />
-    <sub><strong>GitHub</strong></sub>
+  <a href="https://github.com/raneemmagdy" target="_blank">
+    <div align="center">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" alt="GitHub" />
+      <br />
+      <strong>GitHub</strong>
+    </div>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/raneem-elmahdy-56495b2a4" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" alt="LinkedIn" />
-    <br />
-    <sub><strong>LinkedIn</strong></sub>
+  <a href="https://www.linkedin.com/in/raneem-elmahdy-56495b2a4" target="_blank">
+    <div align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" alt="LinkedIn" />
+      <br />
+      <strong>LinkedIn</strong>
+    </div>
   </a>
 </p>
 
