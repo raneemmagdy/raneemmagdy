@@ -65,47 +65,58 @@
 
 <div align="center">
 
-<table>
-<tr>
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <!-- Academic Record Card -->
+    <td width="33%" valign="top">
+      <div style="border: 2px solid #4CAF50; border-radius: 12px; padding: 20px; margin: 15px; background: #e8f5e9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+        <strong style="font-size: 20px; color: #4CAF50;">[ ACADEMIC RECORD ]</strong><br/>
+        <hr style="border: 1px solid #4CAF50; width: 50%; margin: 10px auto;"/>
+        <p style="font-size: 16px; line-height: 1.6; color: #333;">
+          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰<br/>
+          • Institution: Faculty of Computers and Informatics, Suez Canal University<br/>
+          • GPA: 3.61<br/>
+          • Grade: Excellent With Honor<br/>
+          • Graduation Project: Excellent<br/>
+          • Rank: 2nd in the college and department<br/>
+          • Percentage: 93.68%<br/>
+          ◈ 2020-2024
+        </p>
+      </div>
+    </td>
 
-<td width="300" valign="top">
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; margin: 10px; background: #f9f9f9;">
-    <strong>[ ACADEMIC RECORD ]</strong><br/>
-    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰<br/>
-    • Institution: Faculty of Computers and Informatics, Suez Canal University<br/>
-    • GPA: 3.61<br/>
-    • Grade: Excellent With Honor<br/>
-    • Graduation Project: Excellent<br/>
-    • Rank: 2nd in the college and department<br/>
-    • Percentage: 93.68%<br/>
-    ◈ 2020-2024
-  </div>
-</td>
+    <!-- Certifications Card -->
+    <td width="33%" valign="top">
+      <div style="border: 2px solid #1976D2; border-radius: 12px; padding: 20px; margin: 15px; background: #e3f2fd; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+        <strong style="font-size: 20px; color: #1976D2;">[ CERTIFICATIONS ]</strong><br/>
+        <hr style="border: 1px solid #1976D2; width: 50%; margin: 10px auto;"/>
+        <p style="font-size: 16px; line-height: 1.6; color: #333;">
+          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰<br/>
+          • AI Fundamentals – Elmasria (2022)<br/>
+          • Backend Development – Route Academy (2025)<br/>
+          • Frontend Development – Route Academy (2023)<br/>
+          • Problem Solving – Coach Academy (2022)<br/>
+          ◈ 2022-2025
+        </p>
+      </div>
+    </td>
 
-<td width="300" valign="top">
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; margin: 10px; background: #f9f9f9;">
-    <strong>[ CERTIFICATIONS ]</strong><br/>
-    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰<br/>
-    • AI Fundamentals – Elmasria (2022)<br/>
-    • Backend Development – Route Academy (2025)<br/>
-    • Frontend Development – Route Academy (2023)<br/>
-    • Problem Solving – Coach Academy (2022)<br/>
-    ◈ 2022-2025
-  </div>
-</td>
-
-<td width="300" valign="top">
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; margin: 10px; background: #f9f9f9;">
-    <strong>[ COMPETITIONS ]</strong><br/>
-    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰<br/>
-    ★ ECPC Qualifications (2022-2023)<br/>
-  </div>
-</td>
-
-</tr>
+    <!-- Competitions Card -->
+    <td width="33%" valign="top">
+      <div style="border: 2px solid #FF9800; border-radius: 12px; padding: 20px; margin: 15px; background: #fff3e0; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+        <strong style="font-size: 20px; color: #FF9800;">[ COMPETITIONS ]</strong><br/>
+        <hr style="border: 1px solid #FF9800; width: 50%; margin: 10px auto;"/>
+        <p style="font-size: 16px; line-height: 1.6; color: #333;">
+          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰<br/>
+          ★ ECPC Qualifications (2022-2023)<br/>
+        </p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 </div>
+
 
 ---
 
