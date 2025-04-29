@@ -61,63 +61,44 @@
 
 
 ---
-## <img src="https://img.icons8.com/fluency/48/000000/3d-rotate.png" width="28"/> Achievement Holocards
+# <img src="https://img.icons8.com/fluency/48/000000/3d-rotate.png" width="28"/> Achievement Holocards
 
 <div align="center">
 
 <table>
 <tr>
+<td>
 
-<td width="30%" style="vertical-align:top;">
+```hologram
+[ ACADEMIC RECORD ]
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+• Institution: Faculty of Computers and Informatics, Suez Canal University
+• GPA: 3.61 
+• Grade: Excellent With Honor
+• Graduation Project: Excellent
+• Rank: 2nd in the college and department
+• Percentage: 93.68%
+◈ 2020-2024
+ ```
+</td><td>
   
-<h3 style="text-align:center;">Academic Record</h3>
-
-<div style="border:2px solid #4CAF50; border-radius:10px; padding:16px; background:#f9f9f9;">
-<ul>
-  <li><strong>Institution:</strong> Faculty of Computers and Informatics, Suez Canal University</li>
-  <li><strong>GPA:</strong> 3.61</li>
-  <li><strong>Grade:</strong> Excellent With Honor</li>
-  <li><strong>Graduation Project:</strong> Excellent</li>
-  <li><strong>Rank:</strong> 2nd in college and department</li>
-  <li><strong>Percentage:</strong> 93.68%</li>
-  <li><strong>Duration:</strong> 2020 - 2024</li>
-</ul>
-</div>
-
-</td>
-
-<td width="30%" style="vertical-align:top;">
-
-<h3 style="text-align:center;">Certifications</h3>
-
-<div style="border:2px solid #2196F3; border-radius:10px; padding:16px; background:#f9f9f9;">
-<ul>
-  <li>AI Fundamentals – Elmasria (2022)</li>
-  <li>Backend Development – Route Academy (2025)</li>
-  <li>Frontend Development – Route Academy (2023)</li>
-  <li>Problem Solving – Coach Academy (2022)</li>
-  <li><strong>Duration:</strong> 2022 - 2025</li>
-</ul>
-</div>
-
-</td>
-
-<td width="30%" style="vertical-align:top;">
-
-<h3 style="text-align:center;">Competitions</h3>
-
-<div style="border:2px solid #FF9800; border-radius:10px; padding:16px; background:#f9f9f9;">
-<ul>
-  <li>ECPC Qualifications (2022 - 2023)</li>
-</ul>
-</div>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+```hologram
+[ CERTIFICATIONS ]
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+• AI Fundamentals – Elmasria (2022)
+• Backend Development – Route Academy (2025)
+• Frontend Development – Route Academy (2023)
+• Problem Solving – Coach Academy (2022)
+◈ 2022-2025
+ ```
+</td><td>
+  
+```hologram
+[ COMPETITIONS ]
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+★ ECPC Qualifications (2022-2023)
+ ```
+</td></tr> </table> </div>
 
 ---
 
