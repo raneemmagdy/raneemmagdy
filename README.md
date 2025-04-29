@@ -63,60 +63,46 @@
 ---
 ## <img src="https://img.icons8.com/fluency/48/000000/3d-rotate.png" width="28"/> Achievement Holocards
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; max-width: 1000px; margin: 0 auto; padding: 20px;">
+  
+  <!-- Academic Record Card -->
+  <div style="background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); border: 1px solid rgba(255,255,255,0.2); border-radius: 16px; padding: 24px; width: 280px; color: #ffffff; font-family: Arial, sans-serif; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
+    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 16px;">[ ACADEMIC RECORD ]</h2>
+    <div style="background: linear-gradient(to right, #4f46e5, #7c3aed); height: 4px; border-radius: 2px; margin-bottom: 16px;"></div>
+    <ul style="list-style: none; padding: 0; font-size: 0.875rem; line-height: 1.5;">
+      <li><span style="color: #a5b4fc;">•</span> Institution: Faculty of Computers and Informatics, Suez Canal University</li>
+      <li><span style="color: #a5b4fc;">•</span> GPA: 3.61</li>
+      <li><span style="color: #a5b4fc;">•</span> Grade: Excellent With Honor</li>
+      <li><span style="color: #a5b4fc;">•</span> Graduation Project: Excellent</li>
+      <li><span style="color: #a5b4fc;">•</span> Rank: 2nd in the college and department</li>
+      <li><span style="color: #a5b4fc;">•</span> Percentage: 93.68%</li>
+    </ul>
+    <p style="color: #a5b4fc; margin-top: 16px; font-size: 0.875rem;">◈ 2020-2024</p>
+  </div>
 
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <!-- Academic Record Card -->
-    <td width="33%" valign="top">
-      <div style="border: 2px solid #4CAF50; border-radius: 12px; padding: 20px; margin: 15px; background: #e8f5e9; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-        <strong style="font-size: 20px; color: #4CAF50;">[ ACADEMIC RECORD ]</strong><br/>
-        <hr style="border: 1px solid #4CAF50; width: 50%; margin: 10px auto;"/>
-        <p style="font-size: 16px; line-height: 1.6; color: #333;">
-          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰<br/>
-          • Institution: Faculty of Computers and Informatics, Suez Canal University<br/>
-          • GPA: 3.61<br/>
-          • Grade: Excellent With Honor<br/>
-          • Graduation Project: Excellent<br/>
-          • Rank: 2nd in the college and department<br/>
-          • Percentage: 93.68%<br/>
-          ◈ 2020-2024
-        </p>
-      </div>
-    </td>
+  <!-- Certifications Card -->
+  <div style="background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); border: 1px solid rgba(255,255,255,0.2); border-radius: 16px; padding: 24px; width: 280px; color: #ffffff; font-family: Arial, sans-serif; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
+    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 16px;">[ CERTIFICATIONS ]</h2>
+    <div style="background: linear-gradient(to right, #4f46e5, #7c3aed); height: 4px; border-radius: 2px; margin-bottom: 16px;"></div>
+    <ul style="list-style: none; padding: 0; font-size: 0.875rem; line-height: 1.5;">
+      <li><span style="color: #a5b4fc;">•</span> AI Fundamentals – Elmasria (2022)</li>
+      <li><span style="color: #a5b4fc;">•</span> Backend Development – Route Academy (2025)</li>
+      <li><span style="color: #a5b4fc;">•</span> Frontend Development – Route Academy (2023)</li>
+      <li><span style="color: #a5b4fc;">•</span> Problem Solving – Coach Academy (2022)</li>
+    </ul>
+    <p style="color: #a5b4fc; margin-top: 16px; font-size: 0.875rem;">◈ 2022-2025</p>
+  </div>
 
-    <!-- Certifications Card -->
-    <td width="33%" valign="top">
-      <div style="border: 2px solid #1976D2; border-radius: 12px; padding: 20px; margin: 15px; background: #e3f2fd; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-        <strong style="font-size: 20px; color: #1976D2;">[ CERTIFICATIONS ]</strong><br/>
-        <hr style="border: 1px solid #1976D2; width: 50%; margin: 10px auto;"/>
-        <p style="font-size: 16px; line-height: 1.6; color: #333;">
-          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰<br/>
-          • AI Fundamentals – Elmasria (2022)<br/>
-          • Backend Development – Route Academy (2025)<br/>
-          • Frontend Development – Route Academy (2023)<br/>
-          • Problem Solving – Coach Academy (2022)<br/>
-          ◈ 2022-2025
-        </p>
-      </div>
-    </td>
-
-    <!-- Competitions Card -->
-    <td width="33%" valign="top">
-      <div style="border: 2px solid #FF9800; border-radius: 12px; padding: 20px; margin: 15px; background: #fff3e0; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-        <strong style="font-size: 20px; color: #FF9800;">[ COMPETITIONS ]</strong><br/>
-        <hr style="border: 1px solid #FF9800; width: 50%; margin: 10px auto;"/>
-        <p style="font-size: 16px; line-height: 1.6; color: #333;">
-          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰<br/>
-          ★ ECPC Qualifications (2022-2023)<br/>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+  <!-- Competitions Card -->
+  <div style="background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); border: 1px solid rgba(255,255,255,0.2); border-radius: 16px; padding: 24px; width: 280px; color: #ffffff; font-family: Arial, sans-serif; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
+    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 16px;">[ COMPETITIONS ]</h2>
+    <div style="background: linear-gradient(to right, #4f46e5, #7c3aed); height: 4px; border-radius: 2px; margin-bottom: 16px;"></div>
+    <ul style="list-style: none; padding: 0; font-size: 0.875rem; line-height: 1.5;">
+      <li><span style="color: #a5b4fc;">★</span> ECPC Qualifications (2022-2023)</li>
+    </ul>
+  </div>
 
 </div>
-
 
 ---
 
