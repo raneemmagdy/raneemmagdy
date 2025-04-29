@@ -55,8 +55,8 @@
 ## Connect with Me
 
 - <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="16" height="16"> [GitHub Profile](https://github.com/raneemmagdy)  
-- <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="16" height="16"> [LinkedIn](https://www.linkedin.com/in/raneem-elmahdy-56495b2a4)  
-- <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="16" height="16"> Email: raneemmagdy2002@gmail.com  
+- <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="16"> [LinkedIn](https://www.linkedin.com/in/raneem-elmahdy-56495b2a4)   
+- <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="16" height="16"> raneemmagdy2002@gmail.com  
 
 ---
 
