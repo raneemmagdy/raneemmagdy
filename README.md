@@ -38,11 +38,12 @@
 | Category        | Achievement                                                                 | Year       |
 |-----------------|-----------------------------------------------------------------------------|------------|
 | 🎓 **Education**  | **Faculty of Computers and Informatics**<br>Suez Canal University           | 2020-2024  |
-| ⭐ **Excellence** | **Top 2% of Class**<br>GPA: 3.61/4.0 • Ranked #2                           | 2024      |
-| 📜 **Certifications** | **AI Fundamentals** (Elmasria)<br>**Backend Development** (Route Academy) | 2021-2025  |
-| 🏅 **Competitions** | **ECPC  Qualifications**<br>          | 2022-2023  |
+| ⭐ **Excellence** | **Ranked #2**<br>GPA: 3.61/4.0                           | 2024      |
+| 📜 **Certifications** | **AI Fundamentals** (Elmasria)<br>**Backend Development** (Route Academy)<br>**Frontend Development** (Route Academy)<br>**Problem Solving ** (Coach Academy) | 2021-2025  |
+| 🏅 **Competitions** | **ECPC  Qualifications**        | 2022-2023  |
 
 </div>
+
 ---
 
 ## Languages  
