@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Raneem Elmahdy!
-
-🌟**Full Stack Developer (MERN + NestJS)**  
-🎓**Faculty of Computers and Informatics** (Suez Canal University)  
+ 
+** Faculty of Computers and Informatics** (Suez Canal University)  
 **🥈 Ranked 2nd | GPA: 3.61 / 4.0**
 
 ---
+<div align="center">
+  
+![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDD8&width=600&lines=I'm+a+software+engineer;specializing+in+backend+development)
 
+</div>
 ## Technical Skills & Tools
 
 ### Programming Languages  
@@ -47,25 +50,9 @@
 
 ## Languages  
 
-- **Arabic:** Native  
-- **English:** Very Good  
+**Arabic**: Native Proficiency
+**English**: Professional Working Proficiency
 
----
-
-## Connect with Me
-<p align="center">
-  <a href="https://github.com/raneemmagdy" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" alt="GitHub Profile" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/raneem-elmahdy-56495b2a4" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:raneemmagdy2002@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" alt="Email" />
-  </a>
-</p>
 
 
 
