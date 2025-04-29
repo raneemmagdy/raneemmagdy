@@ -69,8 +69,7 @@
 <tr>
 <td>
 
-<pre>
-<code>
+```hologram
 [ ACADEMIC RECORD ]
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 • Institution: Faculty of Computers and Informatics, Suez Canal University
@@ -80,14 +79,9 @@
 • Rank: 2nd in the college and department
 • Percentage: 93.68%
 ◈ 2020-2024
-</code>
-</pre>
-
 </td>
 <td>
 
-<pre>
-<code>
 [ CERTIFICATIONS ]
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 • AI Fundamentals – Elmasria (2022)
@@ -95,25 +89,13 @@
 • Frontend Development – Route Academy (2023)
 • Problem Solving – Coach Academy (2022)
 ◈ 2022-2025
-</code>
-</pre>
-
 </td>
 <td>
 
-<pre>
-<code>
 [ COMPETITIONS ]
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ★ ECPC Qualifications (2022-2023)
-</code>
-</pre>
 
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 ## Languages  
