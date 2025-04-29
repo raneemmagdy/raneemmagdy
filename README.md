@@ -86,3 +86,8 @@ I'm continually improving my skills in full-stack development, exploring advance
 ---
 
 **Thanks for visiting!** ❤️
+
+---
+
+## 🔧 Typed Experience
+As a **software engineer specializing in back-end development**, I have a strong background in building APIs, working with technologies like **Node.js**, **Express.js**, **NestJS**, **MongoDB**, **MySQL**, **mysql2 (module)**, **Mongoose (ODM)**, **Sequelize (ORM)**, **Joi** (for validation), and more. My experience spans building scalable, secure, and efficient applications using both **SQL** and **NoSQL** databases, with a focus on modern back-end frameworks and cloud deployment solutions.
