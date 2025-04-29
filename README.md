@@ -61,27 +61,24 @@
 
 
 ---
-## 🏆 Milestones
+## 🏆 Honors & Milestones
 
-<div align="center">
 
-| <img src="https://cdn-icons-png.flaticon.com/512/3976/3976626.png" width=40> | **Education** |
-|----------|---------------|
-| 🎯 | Faculty of Computers and Informatics, SCU |
-| 🏅 | Ranked 2nd (93.68% GPA 3.61/4.0) |
-| 📜 | Graduation Project: Excellent |
+### 🎓 Education
+| Institution | Graduation Project | Rank | Percentage | Grade | GPA | Duration |
+|-------------|--------------------|------|------------|-------|-----|----------|
+| Faculty of Computers and Informatics, Suez Canal University | Excellent | 2nd | 93.68% | Excellent With Honor | 3.61/4.0 | 2020-2024 |
 
-| <img src="https://cdn-icons-png.flaticon.com/512/3176/3176272.png" width=40> | **Certifications** |
-|----------|---------------|
-| 2022 | AI Fundamentals |
-| 2025 | Backend Development |
-| 2023 | Frontend Development |
+### ⭐ Certifications
+| Certification | Provider | Year |
+|---------------|----------|------|
+| AI Fundamentals | Elmasria | 2022 |
+| Backend Development | Route Academy | 2025 |
+| Frontend Development | Route Academy | 2023 |
+| Problem Solving | Coach Academy | 2022 |
 
-| <img src="https://cdn-icons-png.flaticon.com/512/3142/3142029.png" width=40> | **Competitions** |
-|----------|---------------|
-| 2022-2023 | ECPC Qualifications |
-</div>
-
+### 🏅 Competitions
+- **ECPC Qualifications** (2022-2023)
 
 ---
 
