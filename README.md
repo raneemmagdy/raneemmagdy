@@ -67,36 +67,46 @@
 
 <table>
 <tr>
-<td>
 
-```hologram
-[ ACADEMIC RECORD ]
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-• Institution: Faculty of Computers and Informatics, Suez Canal University
-• GPA: 3.61 
-• Grade: Excellent With Honor
-• Graduation Project: Excellent
-• Rank: 2nd in the college and department
-• Percentage: 93.68%
-◈ 2020-2024
-</td><td>
+<td width="300" valign="top">
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; margin: 10px; background: #f9f9f9;">
+    <strong>[ ACADEMIC RECORD ]</strong><br/>
+    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰<br/>
+    • Institution: Faculty of Computers and Informatics, Suez Canal University<br/>
+    • GPA: 3.61<br/>
+    • Grade: Excellent With Honor<br/>
+    • Graduation Project: Excellent<br/>
+    • Rank: 2nd in the college and department<br/>
+    • Percentage: 93.68%<br/>
+    ◈ 2020-2024
+  </div>
+</td>
 
-[ CERTIFICATIONS ]
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-• AI Fundamentals – Elmasria (2022)
-• Backend Development – Route Academy (2025)
-• Frontend Development – Route Academy (2023)
-• Problem Solving – Coach Academy (2022)
-◈ 2022-2025
-</td><td>
+<td width="300" valign="top">
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; margin: 10px; background: #f9f9f9;">
+    <strong>[ CERTIFICATIONS ]</strong><br/>
+    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰<br/>
+    • AI Fundamentals – Elmasria (2022)<br/>
+    • Backend Development – Route Academy (2025)<br/>
+    • Frontend Development – Route Academy (2023)<br/>
+    • Problem Solving – Coach Academy (2022)<br/>
+    ◈ 2022-2025
+  </div>
+</td>
 
-[ COMPETITIONS ]
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-★ ECPC Qualifications (2022-2023)
-</td></tr>
+<td width="300" valign="top">
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; margin: 10px; background: #f9f9f9;">
+    <strong>[ COMPETITIONS ]</strong><br/>
+    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰<br/>
+    ★ ECPC Qualifications (2022-2023)<br/>
+  </div>
+</td>
+
+</tr>
 </table>
+
 </div>
- ```
+
 ---
 
 ## Languages  
