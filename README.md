@@ -54,11 +54,16 @@
 
 ## Connect with Me
 
-<img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="16" height="16"> GitHub
-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="16"> LinkedIn](https://www.linkedin.com/in/raneem-elmahdy-56495b2a4)  
-<img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="16" height="16"> Email
+<p align="left">
+  <a href="mailto:raneemmagdy2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/raneemmagdy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raneem-elmahdy-56495b2a4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
----
-
-**Thanks for visiting!** ❤️
 
