@@ -1,9 +1,6 @@
-👋 Hi, I'm Raneem Elmahdy!
-
-
 <div align="center">
   
-![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDD8&width=600&lines=I'm+a+software+engineer+specializing+in+backend+development)
+![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=22D3EE&width=700&lines=Hi,+I'm+Raneem+Elmahdy!;Software+Engineer;Backend+Development+Specialist;Node.js+%7C+Express+%7C+NestJS)
 
 </div>
 
