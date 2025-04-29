@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Raneem Elmahdy!
- 
-** Faculty of Computers and Informatics** (Suez Canal University)  
-**🥈 Ranked 2nd | GPA: 3.61 / 4.0**
 
----
+
 <div align="center">
   
 ![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDD8&width=600&lines=I'm+a+software+engineer;specializing+in+backend+development)
@@ -37,18 +34,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" alt="Postman" />
 ---
 
-## Certifications  
 
-- **Fundamentals of Artificial Intelligence** — Elmasria for Science and Technology  
-- **Problem Solving Training** — Coach Academy  
-- **Back-End Development** — Route Academy  
-- **Front-End Development** — Route Academy  
+## 🏆 Achievements & Education
 
----
+<div align="center">
 
-## Competitions  
+| Category        | Achievement                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| 🎓 Education    | Faculty of Computers and Informatics (Suez Canal University)                |
+| 🏅 Academic     | Ranked 2nd | GPA: 3.61/4.0                                   |
+| 📜 Certificates | AI Fundamentals • Problem Solving • Backend/Frontend Development           |
+| 🏆 Competitions | ECPC Qualifications Participant (2022-2023)                                |
 
-- **ECPC Qualifications** — Participated as a contestant (2022 – 2023)
+</div>
 
 ---
 
