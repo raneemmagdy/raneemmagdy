@@ -54,20 +54,21 @@
 
 ## Connect with Me
 
-<p style="text-align: center;">
-  <a href="mailto:raneemmagdy2002@gmail.com" target="_blank" style="display: inline-block; margin: 0 20px; text-decoration: none;">
+<p align="center">
+  <a href="mailto:raneemmagdy2002@gmail.com" target="_blank" style="margin-right: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="48" alt="Gmail" />
     <br />
     <strong>Gmail</strong>
   </a>
-  <a href="https://github.com/raneemmagdy" target="_blank" style="display: inline-block; margin: 0 20px; text-decoration: none;">
+  <a href="https://github.com/raneemmagdy" target="_blank" style="margin-right: 20px;">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" alt="GitHub" />
     <br />
     <strong>GitHub</strong>
   </a>
-  <a href="https://www.linkedin.com/in/raneem-elmahdy-56495b2a4" target="_blank" style="display: inline-block; margin: 0 20px; text-decoration: none;">
+  <a href="https://www.linkedin.com/in/raneem-elmahdy-56495b2a4" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" alt="LinkedIn" />
     <br />
     <strong>LinkedIn</strong>
   </a>
 </p>
+
