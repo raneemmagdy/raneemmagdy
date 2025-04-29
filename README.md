@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Technical Skills & Tools
+## Technical Skills & Tools
 
 ### Programming Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" alt="Dart" />
@@ -24,44 +24,39 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="30" alt="Sequelize" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="30" alt="Mongoose" />
 
 ### Deployment & DevOps  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="30" alt="Vercel" /> <img src="https://raw.githubusercontent.com/raneemmagdy/raneemmagdy/main/assets/render-icon.svg" width="30" alt="Render" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="30" alt="Vercel" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker" />
 
 ### Other Tools  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" alt="Postman" />
 ---
 
-## 🏅 Certifications  
+## Certifications  
 
 - **Fundamentals of Artificial Intelligence** — Elmasria for Science and Technology  
 - **Problem Solving Training** — Coach Academy  
-- **Back-End Development** — GDSC/Route Academy  
+- **Back-End Development** — Route Academy  
 - **Front-End Development** — Route Academy  
 
 ---
 
-## 🏆 Competitions  
+## Competitions  
 
 - **ECPC Qualifications** — Participated as a contestant (2022 – 2023)
 
 ---
 
-## 🌐 Languages  
+## Languages  
 
 - **Arabic:** Native  
 - **English:** Very Good  
 
 ---
 
-## 🎯 What I'm Working On  
-I'm continually improving my skills in full-stack development, exploring advanced AI techniques, and deploying scalable web applications.  
+## Connect with Me
 
----
-
-## 📬 Connect with Me!  
-
-- 🌐 [GitHub Profile](https://github.com/raneemmagdy)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/raneem-elmahdy-56495b2a4)  
-- 💬 Email: raneemmagdy2002@gmail.com  
+- <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="16" height="16"> [GitHub Profile](https://github.com/raneemmagdy)  
+- <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="16" height="16"> [LinkedIn](https://www.linkedin.com/in/raneem-elmahdy-56495b2a4)  
+- <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="16" height="16"> Email: raneemmagdy2002@gmail.com  
 
 ---
 
