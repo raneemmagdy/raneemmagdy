@@ -54,16 +54,30 @@
 
 ## Connect with Me
 
-<p align="left">
-  <a href="mailto:raneemmagdy2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://github.com/raneemmagdy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/raneem-elmahdy-56495b2a4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:raneemmagdy2002@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="64px" alt="Gmail"/>
+        <br/>Email
+      </a>
+      <br/>
+      raneemmagdy2002@gmail.com
+    </td>
+    <td align="center">
+      <a href="https://github.com/raneemmagdy">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="64px" alt="GitHub"/>
+        <br/>GitHub Profile
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/raneem-elmahdy-56495b2a4">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="64px" alt="LinkedIn"/>
+        <br/>LinkedIn
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
