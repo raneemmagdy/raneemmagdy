@@ -56,7 +56,7 @@
 <p align="center">
   <a href="mailto:raneemmagdy2002@gmail.com" target="_blank" style="display: inline-flex; align-items: center; margin-right: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" alt="Gmail" />
-    <span style="font-size: 12px; margin-left: 8px;"><strong>Gmail</strong></span>
+    <span style="font-size: 12px; margin-left: 8px;margin-right: 30px;"><strong>Gmail</strong></span>
   </a>
   <a href="https://github.com/raneemmagdy" target="_blank" style="display: inline-flex; align-items: center; margin-right: 20px;">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" alt="GitHub" />
