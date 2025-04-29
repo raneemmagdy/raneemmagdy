@@ -61,19 +61,49 @@
 
 
 ---
-## 🌟 Honors & Milestones
+## <img src="https://img.icons8.com/fluency/48/000000/3d-rotate.png" width="28"/> Achievement Holocards
 
 <div align="center">
 
-### 🎓 Education
-```diff
-+ Faculty of Computers and Informatics, Suez Canal University (2020-2024)
-! Graduation Project: Excellent
-# Rank: 2nd in department
-⭐ GPA: 3.61/4.0 (93.68%)
-@ Honors: Excellent With Honor
----
+<table>
+<tr>
+<td>
 
+```hologram
+[ ACADEMIC RECORD ]
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+• Institution: SCU
+• GPA: 3.61 (Top 2%)
+• Honors: With Distinction
+◈ 2020-2024
+```
+</td>
+<td>
+
+```hologram
+[ CERTIFICATIONS ]
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+• AI Fundamentals
+• Backend Specialization
+• Frontend Mastery
+◈ 2022-2025
+```
+</td>
+<td>
+
+```hologram
+[ COMPETITIONS ]
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+★ ECPC Nationals
+★ Hackathon Winner
+★ Research Presenter
+◈ 2022-2023
+```
+</td>
+</tr>
+</table>
+</div>
+---
 ## Languages  
 
 - **Arabic**: Native Proficiency
