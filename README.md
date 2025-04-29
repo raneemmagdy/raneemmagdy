@@ -61,35 +61,42 @@
 
 
 ---
-## 　🚀　ACHIEVEMENT HUB　🔮
+## <img src="https://img.icons8.com/fluency/48/000000/3d-rotate.png" width="28"/> Achievement Holocards
 
-```diff
-+=============( 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡  )=============+
-#  🏛 Faculty of Computers & Informatics    #
-!  🎓 BSc Computer Science | 2020-2024     !
-@  🏆 Rank: Top 2% (93.68%)               @
-#  📊 GPA: 3.61/4.0 | Honors              #
-!  🔬 Thesis: "Excellent" Grad Project    !
-+==========================================+
-```
+<div align="center">
 
-```glow
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  🛠️  𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡  𝗦𝗧𝗔𝗖𝗞  
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-◈ 𝗔𝗜 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 │ Elmasria (2022)
-◈ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃  │ Route Academy (2025)
-◈ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃 │ Route Academy (2023)
-◈ 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 │ Coach Academy (2022)
-```
+<table>
+<tr>
+<td>
 
 ```hologram
-  ╔════════════════════════════╗
-  ║    𝗖𝗢𝗠𝗣𝗘𝗧𝗜𝗧𝗜𝗢𝗡 𝗟𝗢𝗚    ║
-  ╠════════════════╦═══════════╣
-  ║ 𝗘𝗖𝗣𝗖 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝘀 ║ 2022-2023 ║
-  ╚════════════════╩═══════════╝
-```
+[ ACADEMIC RECORD ]
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+• Institution: Faculty of Computers and Informatics, Suez Canal University
+• GPA: 3.61 
+• Grade: Excellent With Honor
+• Graduation Project: Excellent
+• Rank: 2nd in the college and department
+• Percentage: 93.68%
+◈ 2020-2024
+</td> <td>
+
+```hologram
+
+[ CERTIFICATIONS ]
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+• AI Fundamentals – Elmasria (2022)
+• Backend Development – Route Academy (2025)
+• Frontend Development – Route Academy (2023)
+• Problem Solving – Coach Academy (2022)
+◈ 2022-2025
+</td> <td>
+```hologram
+
+[ COMPETITIONS ]
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+★ ECPC Qualifications (2022-2023)
+
 
 ---
 ## Languages  
