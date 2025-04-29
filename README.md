@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Raneem Elmahdy!
+👋 Hi, I'm Raneem Elmahdy!
 
 
 <div align="center">
   
-![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDD8&width=600&lines=I'm+a+software+engineer;specializing+in+backend+development)
+![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDD8&width=600&lines=I'm+a+software+engineer+specializing+in+backend+development)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## 🏆 Achievements & Education
 
-<div align="center">
+
 
 | Category        | Achievement                                                                 |
 |-----------------|-----------------------------------------------------------------------------|
@@ -46,7 +46,7 @@
 | 📜 Certificates | AI Fundamentals • Problem Solving • Backend/Frontend Development           |
 | 🏆 Competitions | ECPC Qualifications Participant (2022-2023)                                |
 
-</div>
+
 
 ---
 
