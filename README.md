@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=1500&color=ff70a6&width=1000&lines=Hi,+I'm+Raneem+Elmahdy!;I'm+Software+Engineer;Backend+Development+Specialist;Node.js+%7C+Express+%7C+NestJS)
+  ![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=1500&color=b5e2fa&width=1000&lines=Hi,+I'm+Raneem+Elmahdy!;I'm+Software+Engineer;Backend+Development+Specialist;Node.js+%7C+Express+%7C+NestJS)
 
 </div>
 
