@@ -61,8 +61,31 @@
 
 
 ---
-🏆 Honors & Milestones
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; align-items: center;"> <div style="border-left: 4px solid #22D3EE; padding: 20px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);"> <h3 style="color: #22D3EE; text-align: center;">🎓 **Education**</h3> <p><strong>Institution:</strong> Faculty of Computers and Informatics, Suez Canal University</p> <p><strong>Rank:</strong> Ranked #2 in class</p> <p><strong>GPA:</strong> 3.61/4.0</p> <p><strong>Duration:</strong> 2020 - 2024</p> <div style="width: 100%; background-color: #e0f7fa; border-radius: 10px; height: 10px; margin-top: 10px;"> <div style="background-color: #22D3EE; height: 10px; width: 90%; border-radius: 10px;"></div> </div> </div> <div style="border-left: 4px solid #22D3EE; padding: 20px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);"> <h3 style="color: #22D3EE; text-align: center;">⭐ **Certifications</h3> <ul style="list-style-type: none; padding: 0; text-align: left; margin-top: 10px;"> <li>AI Fundamentals – Elmasria (2021)</li> <li>Backend Development – Route Academy (2022)</li> <li>Frontend Development – Route Academy (2022)</li> <li>Problem Solving – Coach Academy (2023)</li> </ul> <div style="width: 100%; background-color: #e0f7fa; border-radius: 10px; height: 10px; margin-top: 10px;"> <div style="background-color: #22D3EE; height: 10px; width: 80%; border-radius: 10px;"></div> </div> </div> <div style="border-left: 4px solid #22D3EE; padding: 20px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);"> <h3 style="color: #22D3EE; text-align: center;">🏅 **Competitions**</h3> <p><strong>Event:</strong> ECPC Qualifications – Eastern Mediterranean Regional</p> <p><strong>Duration:</strong> 2022 - 2023</p> <p><strong>Achievement:</strong> Ranked highly in regional qualifications</p> <div style="width: 100%; background-color: #e0f7fa; border-radius: 10px; height: 10px; margin-top: 10px;"> <div style="background-color: #22D3EE; height: 10px; width: 75%; border-radius: 10px;"></div> </div> </div> </div>
+## 🏆 Honors & Milestones
+
+### 🎓 **Education**
+- **Institution**: Faculty of Computers and Informatics, Suez Canal University
+- **Graduation Project**: Excellent
+- **Rank**: 2nd in the college and departm
+- **Percentage**:: 93,68%
+- **Grade**: Excellent With Honor
+- **GPA**: 3.61/4.0
+- **Duration**: 2020 - 2024
+
+---
+
+### ⭐ **Certifications**
+- **AI Fundamentals** – Elmasria (2022)
+- **Backend Development** – Route Academy (2025)
+- **Frontend Development** – Route Academy (2023)
+- **Problem Solving** – Coach Academy (2022)
+- **Duration**: 2022 - 2025
+
+---
+
+### 🏅 **Competitions**
+- **ECPC Qualifications**  (2022 - 2023)
+
 ---
 
 ## Languages  
