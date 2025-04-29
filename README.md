@@ -31,26 +31,24 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" alt="Postman" />
 ---
 
+## 🏆 Honors & Milestones
 
-## 🏆 Achievements & Education
+<div align="center">
 
+| Category        | Achievement                                                                 | Year       |
+|-----------------|-----------------------------------------------------------------------------|------------|
+| 🎓 **Education**  | **Faculty of Computers and Informatics**<br>Suez Canal University           | 2020-2024  |
+| ⭐ **Excellence** | **Top 2% of Class**<br>GPA: 3.61/4.0 • Ranked #2                           | 2024      |
+| 📜 **Certifications** | **AI Fundamentals** (Elmasria)<br>**Backend Development** (Route Academy) | 2021-2025  |
+| 🏅 **Competitions** | **ECPC  Qualifications**<br>          | 2022-2023  |
 
-
-| Category        | Achievement                                                                 |
-|-----------------|-----------------------------------------------------------------------------|
-| 🎓 Education    | Faculty of Computers and Informatics (Suez Canal University)                |
-| 🏅 Academic     | Ranked 2nd | GPA: 3.61/4.0                                   |
-| 📜 Certificates | AI Fundamentals • Problem Solving • Backend/Frontend Development           |
-| 🏆 Competitions | ECPC Qualifications Participant (2022-2023)                                |
-
-
-
+</div>
 ---
 
 ## Languages  
 
-**Arabic**: Native Proficiency
-**English**: Professional Working Proficiency
+- **Arabic**: Native Proficiency
+- **English**: Professional Working Proficiency
 
 
 
