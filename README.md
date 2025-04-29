@@ -79,8 +79,7 @@
 • Rank: 2nd in the college and department
 • Percentage: 93.68%
 ◈ 2020-2024
-</td>
-<td>
+</td><td>
 
 [ CERTIFICATIONS ]
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
@@ -89,15 +88,17 @@
 • Frontend Development – Route Academy (2023)
 • Problem Solving – Coach Academy (2022)
 ◈ 2022-2025
-</td>
-<td>
+</td><td>
 
 [ COMPETITIONS ]
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ★ ECPC Qualifications (2022-2023)
-
-
+</td></tr>
+</table>
+</div>
+ ```
 ---
+
 ## Languages  
 
 - **Arabic**: Native Proficiency
