@@ -61,30 +61,27 @@
 
 
 ---
-## 🏆 Honors & Milestones
+## 🏆 Milestones
 
-### 🎓 **Education**
-- **Institution**: Faculty of Computers and Informatics, Suez Canal University
-- **Graduation Project**: Excellent
-- **Rank**: 2nd in the college and departm
-- **Percentage**:: 93,68%
-- **Grade**: Excellent With Honor
-- **GPA**: 3.61/4.0
-- **Duration**: 2020 - 2024
+<div align="center">
 
----
+| <img src="https://cdn-icons-png.flaticon.com/512/3976/3976626.png" width=40> | **Education** |
+|----------|---------------|
+| 🎯 | Faculty of Computers and Informatics, SCU |
+| 🏅 | Ranked 2nd (93.68% GPA 3.61/4.0) |
+| 📜 | Graduation Project: Excellent |
 
-### ⭐ **Certifications**
-- **AI Fundamentals** – Elmasria (2022)
-- **Backend Development** – Route Academy (2025)
-- **Frontend Development** – Route Academy (2023)
-- **Problem Solving** – Coach Academy (2022)
-- **Duration**: 2022 - 2025
+| <img src="https://cdn-icons-png.flaticon.com/512/3176/3176272.png" width=40> | **Certifications** |
+|----------|---------------|
+| 2022 | AI Fundamentals |
+| 2025 | Backend Development |
+| 2023 | Frontend Development |
 
----
+| <img src="https://cdn-icons-png.flaticon.com/512/3142/3142029.png" width=40> | **Competitions** |
+|----------|---------------|
+| 2022-2023 | ECPC Qualifications |
+</div>
 
-### 🏅 **Competitions**
-- **ECPC Qualifications**  (2022 - 2023)
 
 ---
 
