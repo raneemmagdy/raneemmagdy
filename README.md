@@ -53,35 +53,24 @@
 ---
 
 ## Connect with Me
-<div style="display: flex; gap: 40px; align-items: center;">
-
-  <div align="center">
-    <a href="mailto:raneemmagdy2002@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="64px" alt="Gmail"/>
-      <br/>
-      <strong>Email</strong>
-    </a>
+<p align="center">
+  <a href="mailto:raneemmagdy2002@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="64px" alt="Gmail"/>
     <br/>
-    raneemmagdy2002@gmail.com
-  </div>
-
-  <div align="center">
-    <a href="https://github.com/raneemmagdy">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="64px" alt="GitHub"/>
-      <br/>
-      <strong>GitHub</strong>
-    </a>
-  </div>
-
-  <div align="center">
-    <a href="https://www.linkedin.com/in/raneem-elmahdy-56495b2a4">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="64px" alt="LinkedIn"/>
-      <br/>
-      <strong>LinkedIn</strong>
-    </a>
-  </div>
-
-</div>
-
+    <strong>Gmail</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/raneemmagdy">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="64px" alt="GitHub"/>
+    <br/>
+    <strong>GitHub</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/raneem-elmahdy-56495b2a4">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="64px" alt="LinkedIn"/>
+    <br/>
+    <strong>LinkedIn</strong>
+  </a>
+</p>
 
 
