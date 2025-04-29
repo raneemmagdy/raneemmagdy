@@ -9,7 +9,10 @@
 ![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDD8&width=600&lines=I'm+a+software+engineer;specializing+in+backend+development)
 
 </div>
+
 ---
+
+
 ## Technical Skills & Tools
 
 ### Programming Languages  
