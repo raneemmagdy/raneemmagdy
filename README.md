@@ -70,7 +70,7 @@
     <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 16px; line-height: 1.25;">[ ACADEMIC RECORD ]</h2>
     <div style="background: linear-gradient(to right, #4f46e5, #7c3aed); height: 4px; border-radius: 2px; margin-bottom: 16px;"></div>
     <div style="font-size: 0.875rem; line-height: 1.5; margin-bottom: 16px;">
-      <p><span style="color: #a5b4fc; margin-right: 8px;">•</span> Institution: Faculty of Computers and Informatics, Suez Canal University</p>
+      <p><span style="color: #a5b4fc; margin-right: 8px;">•</span> <strong>Institution: Faculty of Computers and Informatics, Suez Canal University</strong></p>
       <p><span style="color: #a5b4fc; margin-right: 8px;">•</span> <strong>GPA: 3.61</strong></p>
       <p><span style="color: #a5b4fc; margin-right: 8px;">•</span> <strong>Grade: Excellent With Honor</strong></p>
       <p><span style="color: #a5b4fc; margin-right: 8px;">•</span> <strong>Graduation Project: Excellent</strong></p>
@@ -94,11 +94,11 @@
   </div>
 
   <!-- Competitions Card -->
-  <div style="background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); border: 1px solid rgba(255,255,255,0.2); border-radius: 16px; padding: 24px; width: 280px; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; box-shadow: 0 10px 20px rgba(0,0,0,0.5);">
-    <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 16px; line-height: 1.25;">[ COMPETITIONS ]</h2>
-    <div style="background: linear-gradient(to right, #4f46e5, #7c3aed); height: 4px; border-radius: 2px; margin-bottom: 16px;"></div>
-    <div style="font-size: 0.875rem; line-height: 1.5; margin-bottom: 16px;">
-      <p><span style="color: #a5b4fc; margin-right: 8px;">★</span> <strong>ECPC Qualifications</strong> (2022-2023)</p>
+  <div>
+    <h2 >[ COMPETITIONS ]</h2>
+    <div ></div>
+    <div >
+      <p><span >★</span> <strong>ECPC Qualifications</strong> (2022-2023)</p>
     </div>
   </div>
 
