@@ -69,43 +69,41 @@
 <tr>
 
 <!-- Education Card -->
-<td width="320" valign="top">
-  <div style="border-radius: 16px; border: 2px solid #00BFFF; padding: 20px; margin: 10px; background: #F0F8FF; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="color:#007ACC;">🎓 Academic Record</h3>
-    <ul>
-      <li><strong>Institution:</strong> Suez Canal University</li>
-      <li><strong>GPA:</strong> 3.61 / 4.0</li>
-      <li><strong>Grade:</strong> Excellent With Honor</li>
-      <li><strong>Graduation Project:</strong> Excellent</li>
-      <li><strong>Rank:</strong> 2nd in college & department</li>
-      <li><strong>Percentage:</strong> 93.68%</li>
-      <li><strong>Duration:</strong> 2020 – 2024</li>
-    </ul>
+<td width="300" valign="top">
+  <div style="border: 2px solid #3f51b5; border-radius: 10px; padding: 16px; margin: 8px; background-color: #f4f6fa; font-family: sans-serif;">
+    <h3 style="color:#3f51b5;">Education</h3>
+    <p><strong>Institution:</strong> Faculty of Computers and Informatics,<br>Suez Canal University</p>
+    <p><strong>GPA:</strong> 3.61 / 4.0</p>
+    <p><strong>Grade:</strong> Excellent With Honor</p>
+    <p><strong>Graduation Project:</strong> Excellent</p>
+    <p><strong>Rank:</strong> 2nd in college & department</p>
+    <p><strong>Percentage:</strong> 93.68%</p>
+    <p><strong>Years:</strong> 2020 – 2024</p>
   </div>
 </td>
 
 <!-- Certifications Card -->
-<td width="320" valign="top">
-  <div style="border-radius: 16px; border: 2px solid #32CD32; padding: 20px; margin: 10px; background: #F5FFFA; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="color:#228B22;">⭐ Certifications</h3>
+<td width="300" valign="top">
+  <div style="border: 2px solid #388e3c; border-radius: 10px; padding: 16px; margin: 8px; background-color: #f0f8f2; font-family: sans-serif;">
+    <h3 style="color:#388e3c;">Certifications</h3>
     <ul>
       <li>AI Fundamentals – Elmasria (2022)</li>
-      <li>Backend Dev – Route Academy (2025)</li>
-      <li>Frontend Dev – Route Academy (2023)</li>
+      <li>Backend Development – Route Academy (2025)</li>
+      <li>Frontend Development – Route Academy (2023)</li>
       <li>Problem Solving – Coach Academy (2022)</li>
-      <li><strong>Duration:</strong> 2022 – 2025</li>
     </ul>
+    <p><strong>Years:</strong> 2022 – 2025</p>
   </div>
 </td>
 
 <!-- Competitions Card -->
-<td width="320" valign="top">
-  <div style="border-radius: 16px; border: 2px solid #FF8C00; padding: 20px; margin: 10px; background: #FFF8DC; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="color:#FF8C00;">🏅 Competitions</h3>
+<td width="300" valign="top">
+  <div style="border: 2px solid #f57c00; border-radius: 10px; padding: 16px; margin: 8px; background-color: #fff8f0; font-family: sans-serif;">
+    <h3 style="color:#f57c00;">Competitions</h3>
     <ul>
       <li>ECPC Qualifications</li>
-      <li><strong>Duration:</strong> 2022 – 2023</li>
     </ul>
+    <p><strong>Years:</strong> 2022 – 2023</p>
   </div>
 </td>
 
@@ -113,7 +111,6 @@
 </table>
 
 </div>
-
 
 ---
 
