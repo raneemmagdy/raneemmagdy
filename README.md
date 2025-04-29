@@ -53,19 +53,21 @@
 ---
 
 ## Connect with Me
+
 <p align="center">
-  <a href="mailto:raneemmagdy2002@gmail.com" target="_blank" style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="48" alt="Gmail" /><br />
+  <a href="mailto:raneemmagdy2002@gmail.com" target="_blank" style="margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="48" alt="Gmail" />
+    <br />
     <strong>Gmail</strong>
   </a>
-  
-  <a href="https://github.com/raneemmagdy" target="_blank" style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" alt="GitHub" /><br />
+  <a href="https://github.com/raneemmagdy" target="_blank" style="margin: 0 15px;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" alt="GitHub" />
+    <br />
     <strong>GitHub</strong>
   </a>
-  
-  <a href="https://www.linkedin.com/in/raneem-elmahdy-56495b2a4" target="_blank" style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" alt="LinkedIn" /><br />
+  <a href="https://www.linkedin.com/in/raneem-elmahdy-56495b2a4" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" alt="LinkedIn" />
+    <br />
     <strong>LinkedIn</strong>
   </a>
 </p>
