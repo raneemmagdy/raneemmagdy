@@ -1,8 +1,8 @@
-<div align="center">
-  
-  ![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=1500&color=1e96fc&width=1000&lines=Hi,+I'm+Raneem+Elmahdy!;I'm+Software+Engineer;Backend+Development+Specialist;Node.js+%7C+Express+%7C+NestJS)
 
-</div>
+  
+  ![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=1500&color=cdb4db&width=1000&lines=Hi,+I'm+Raneem+Elmahdy!;I'm+Software+Engineer;Backend+Development+Specialist;Node.js+%7C+Express+%7C+NestJS)
+
+
 
 ---
 
