@@ -1,12 +1,16 @@
 # 👋 Hi, I'm Raneem Elmahdy!
  
-** Faculty of Computers and Informatics** (Suez Canal University)  
-**🥈 Ranked 2nd | GPA: 3.61 / 4.0**
-
----
 <div align="center">
   
-![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDD8&width=600&lines=I'm+a+software+engineer;specializing+in+backend+development)
+![Header Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDD8&width=600&lines=Backend+Engineer;Faculty+of+Computers+%26+Informatics;🥈+Ranked+2nd+%7C+GPA%3A+3.61%2F4.0)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Specialization](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=22D3EE&width=600&lines=Specializing+in+Backend+Development;Node.js+%7C+Express+%7C+NestJS+Expert;Database+Architect+%7C+API+Specialist)
 
 </div>
 
