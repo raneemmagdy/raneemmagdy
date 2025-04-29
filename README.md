@@ -62,13 +62,7 @@
 
 ---
 
-## 🏆 Honors & Milestones
-
-| Category        | Achievement                                                                 | Year       |
-|-----------------|-----------------------------------------------------------------------------|------------|
-| 🎓 **Education**  | **Faculty of Computers and Informatics**<br>Suez Canal University<br>**Ranked #2**<br>GPA: 3.61/4.0            | 2020-2024  |
-| ⭐ **Certifications** | **AI Fundamentals** (Elmasria)<br>**Backend Development** (Route Academy)<br>**Frontend Development** (Route Academy)<br>**Problem Solving** (Coach Academy) | 2021-2025  |
-| 🏅 **Competitions** | **ECPC  Qualifications**        | 2022-2023  |
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;"> <div style="border: 2px solid #22D3EE; border-radius: 10px; padding: 20px; max-width: 300px; width: 100%; background-color: #f4f7f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"> <h3 style="color: #22D3EE; text-align: center;">🎓 **Education**</h3> <p><strong>Institution:</strong> Faculty of Computers and Informatics, Suez Canal University</p> <p><strong>Rank:</strong> Ranked #2 in class</p> <p><strong>GPA:</strong> 3.61/4.0</p> <p><strong>Duration:</strong> 2020 - 2024</p> </div> <div style="border: 2px solid #22D3EE; border-radius: 10px; padding: 20px; max-width: 300px; width: 100%; background-color: #f4f7f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"> <h3 style="color: #22D3EE; text-align: center;">⭐ **Certifications**</h3> <ul style="list-style-type: none; padding: 0; text-align: center;"> <li>AI Fundamentals – Elmasria (2021)</li> <li>Backend Development – Route Academy (2022)</li> <li>Frontend Development – Route Academy (2022)</li> <li>Problem Solving – Coach Academy (2023)</li> </ul> <p><strong>Duration:</strong> 2021 - 2025</p> </div> <div style="border: 2px solid #22D3EE; border-radius: 10px; padding: 20px; max-width: 300px; width: 100%; background-color: #f4f7f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"> <h3 style="color: #22D3EE; text-align: center;">🏅 **Competitions**</h3> <p><strong>Event:</strong> ECPC Qualifications – Eastern Mediterranean Regional</p> <p><strong>Duration:</strong> 2022 - 2023</p> <p><strong>Achievement:</strong> Ranked highly in regional qualifications</p> </div> </div>
 
 ---
 
