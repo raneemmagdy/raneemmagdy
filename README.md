@@ -1,6 +1,6 @@
 <div align="center">
   
-![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=22D3EE&width=700&lines=Hi,+I'm+Raneem+Elmahdy!;Software+Engineer;Backend+Development+Specialist;Node.js+%7C+Express+%7C+NestJS)
+![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=22D3EE&width=700&lines=Hi,+I'm+Raneem+Elmahdy!;I'm+Software+Engineer;Backend+Development+Specialist;Node.js+%7C+Express+%7C+NestJS)
 
 </div>
 
@@ -33,15 +33,13 @@
 
 ## 🏆 Honors & Milestones
 
-<div align="center">
-
 | Category        | Achievement                                                                 | Year       |
 |-----------------|-----------------------------------------------------------------------------|------------|
 | 🎓 **Education**  | **Faculty of Computers and Informatics**<br>Suez Canal University<br>**Ranked #2**<br>GPA: 3.61/4.0            | 2020-2024  |
 | ⭐ **Certifications** | **AI Fundamentals** (Elmasria)<br>**Backend Development** (Route Academy)<br>**Frontend Development** (Route Academy)<br>**Problem Solving** (Coach Academy) | 2021-2025  |
 | 🏅 **Competitions** | **ECPC  Qualifications**        | 2022-2023  |
 
-</div>
+
 
 ---
 
